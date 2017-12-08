@@ -22,8 +22,12 @@ Recent archaeological discoveries on the island of Paxos reveal that the parliam
 #### 1.1 The Island of Paxos
 Early in this millennium, the Aegean island of Paxos was a thriving mercantile center.1 Wealth led to political sophistication, and the Paxons replaced their ancient theocracy with a parliamentary form of government. But trade came before civic duty, and no one in Paxos was willing to devote his life to Parliament. The Paxon Parliament had to function even though legislators continually wandered in and out of the parliamentary Chamber.
 
-早在千年以前
+早在千年以前，爱琴海上的一个叫paxos的岛上，由于商品的繁荣处于财富中心导致了政治上的日益复杂，同时paxos上的人们以议会的形式代替了古老的神权政府。但是商品贸易高于公民义务，没有公民愿意用其一生致力于议会。即使议员来来去去的徘徊在议会室，paxos的议会也要运行下去。
 
-The problem of governing with a part-time parliament bears a remarkable corre- spondence to the problem faced by today’s fault-tolerant distributed systems, where legislators correspond to processes and leaving the Chamber corresponds to failing. The Paxons’ solution may therefore be of some interest to computer scientists. I present here a short history of the Paxos Parliament’s protocol, followed by an even shorter discussion of its relevance for distributed systems.
+The problem of governing with a part-time parliament bears a remarkable correspondence to the problem faced by today’s fault-tolerant distributed systems, where legislators correspond to processes and leaving the Chamber corresponds to failing. The Paxons’ solution may therefore be of some interest to computer scientists. I present here a short history of the Paxos Parliament’s protocol, followed by an even shorter discussion of its relevance for distributed systems.
+
+政府面临的只有部分时间存在的议会的问题非常和现在的容错的分布式系统一致，立法者相当于处理进程，立法者离开会议室相当于处理失败。paxos岛上的人们的结局方式因此引起了一些计算机科学家的兴趣。我在这里短时间提一段关于paxos议会的协议的历史，然后在更短时间内讨论它跟分布式系统的关联性。
 
 Paxon civilization was destroyed by a foreign invasion, and archeologists have just recently begun to unearth its history. Our knowledge of the Paxon Parliament is therefore fragmentary. Although the basic protocols are known, we are ignorant of many details. Where such details are of interest, I will take the liberty of speculating on what the Paxons might have done.
+
+paxos文明被外文明入侵摧毁，考古学家也是近段时间才开始发掘它的历史。我们对paxos议会制度因此也是不完全的。尽管我们知道基本的协议，但是我们对许多的细节是不知道的。在一些感兴趣的细节地方，我会自由的发挥我的想象猜测paxos的人们将会怎么做。
