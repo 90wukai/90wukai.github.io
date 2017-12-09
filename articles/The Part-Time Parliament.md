@@ -31,3 +31,24 @@ The problem of governing with a part-time parliament bears a remarkable correspo
 Paxon civilization was destroyed by a foreign invasion, and archeologists have just recently begun to unearth its history. Our knowledge of the Paxon Parliament is therefore fragmentary. Although the basic protocols are known, we are ignorant of many details. Where such details are of interest, I will take the liberty of speculating on what the Paxons might have done.
 
 paxos文明被外文明入侵摧毁，考古学家也是近段时间才开始发掘它的历史。我们对paxos议会制度因此也是不完全的。尽管我们知道基本的协议，但是我们对许多的细节是不知道的。在一些感兴趣的细节地方，我会自由的发挥我的想象猜测paxos的人们将会怎么做。
+
+#### 1.2 Requirements
+Parliament’s primary task was to determine the law of the land, which was defined
+by the sequence of decrees it passed. A modern parliament will employ a secretary
+to record its actions, but no one in Paxos was willingto remain in the Chamber
+throughout the session to act as secretary. Instead, each Paxon legislator maintained
+a ledger in which he recorded the numbered sequence of decrees that were
+passed. For example, legislator Λ˘ινχ∂’s ledger had the entry
+
+​                          155: _The olive tax is 3 drachmas per ton_
+
+if she believed that the 155th decree passed by Parliament set the tax on olives to 3
+drachmas per ton. Ledgers were written with indelible ink, and their entries could
+not be changed.
+The first requirement of the parliamentary protocol was the consistency of ledgers,
+meaning that no two ledgers could contain contradictory information. If legislator
+Φισ∂ρ had the entry
+
+​                         132: _Lamps must use only olive oil_
+
+in his ledger, then no other legislator’s ledger could have a different entry for decree
