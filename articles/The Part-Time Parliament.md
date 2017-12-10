@@ -52,3 +52,10 @@ meaning that no two ledgers could contain contradictory information. If legislat
 ​                         132: _Lamps must use only olive oil_
 
 in his ledger, then no other legislator’s ledger could have a different entry for decree
+
+
+
+
+
+
+[back](./)
