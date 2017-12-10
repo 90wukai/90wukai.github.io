@@ -58,4 +58,4 @@ in his ledger, then no other legislator’s ledger could have a different entry 
 
 
 
-[back](./)
+[back](../index)
