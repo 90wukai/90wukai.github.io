@@ -6,17 +6,21 @@ layout: default
 
 作者：Leslie Lamport
 
-This article appeared in ACM Transactions on Computer Sys- tems 16, 2 (May 1998), 133-169. Minor corrections were made on 29 August 2000.
-
-这是一篇描述Paxos算法的论文
+这是描述Paxos算法的论文
 
 # [](#header-1)[The Google File System](articles/The Google File System)
 
 作者：Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
 Google
 
-We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
-
+Google GFS
 # [](#header-1)[Ceph: A Scalable, High-Performance Distributed File System](articles/ceph)
 
 作者：Sage A. Weil， Scott A. Brandt， Ethan L. Miller， Darrell D. E. Long， Carlos Maltzahn
+
+
+# [](#header-1)[Finding a needle in Haystack: Facebook’s photo storage](articles/Haystack)
+
+作者：Doug Beaver, Sanjeev Kumar, Harry C. Li, Jason Sobel, Peter Vajgel
+
+facebook关于小文件分布式存储的经典论文
