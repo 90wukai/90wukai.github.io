@@ -30,3 +30,9 @@ facebook关于小文件分布式存储的经典论文
 作者：Abhishek Vermay, Luis Pedrosaz, Madhukar Korupolu, David Oppenheimer, Eric Tune, John Wilkes
 
 Google Borg, 谷歌关于集群管理的文章，Kubernetes相当于它的开源实现，当然也有所差别，可以对照现有的其他调度系统研读，如Kubernetes、Mesos和Yarn
+
+# [](#header-2)[Chord: A Scalable Peertopeer Lookup Service for Internet](articles/Chord)
+
+作者：Ion Stoica􀀀, Robert Morris, David Karger, M. Frans Kaashoek, Hari Balakrishnan
+
+MIT关于无中心架构的经典算法，分布式hash的实现
