@@ -2,10 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Ceph</title>
+<style>
+body{
+  margin:0; 
+  padding:0; 
+  overflow-y:hidden
+}
+</style>
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script type="text/javascript"> 
+window.onerror=function(){return true;} 
+$(function(){ 
+  headerH = 0;  
+  var h=$(window).height();
+  $("#iframe").height((h-headerH)+"px"); 
+});
+</script>
 </head>
 <body>
-<iframe src="https://drive.google.com/file/d/1vgSX_4fvfCL09fBmXH5MIEenDJaJtto1/preview" width="640" height="480"></iframe>
+<iframe id="iframe" frameborder="0" src="https://drive.google.com/file/d/1vgSX_4fvfCL09fBmXH5MIEenDJaJtto1/preview" style="width:100%;"></iframe>
 </body>
 </html>
 
