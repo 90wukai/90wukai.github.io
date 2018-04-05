@@ -17,5 +17,6 @@ Google
 
 We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
 
-# [](#header-1)[Ceph](articles/ceph)
+# [](#header-1)[Ceph: A Scalable, High-Performance Distributed File System](articles/ceph)
 
+作者：Sage A. Weil， Scott A. Brandt， Ethan L. Miller， Darrell D. E. Long， Carlos Maltzahn
