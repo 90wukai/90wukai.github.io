@@ -16,3 +16,6 @@ This article appeared in ACM Transactions on Computer Sys- tems 16, 2 (May 1998)
 Google
 
 We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
+
+# [](#header-1)[Ceph](articles/ceph)
+
